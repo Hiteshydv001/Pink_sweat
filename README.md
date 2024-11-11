@@ -53,7 +53,7 @@ Interested in contributing? We welcome pull requests and any feedback you may ha
 
 ## 📬 Contact
 
-For questions, suggestions, or more information, please reach out to our team at [inprogress](mailto:inprogress).
+For questions, suggestions, or more information, please reach out to our team.
 
 ---
 
