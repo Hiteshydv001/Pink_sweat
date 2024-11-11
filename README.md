@@ -20,7 +20,7 @@ Explore our project documentation for an in-depth understanding of the proctorin
 
 The proctoring system architecture is designed to ensure secure, real-time monitoring and detection of potential assessment violations. The documentation provides an overview of how different components interact to create a seamless and secure experience.
 
-![Architecture and Workflow Diagram](https://github.com/Hiteshydv001/Pink_sweat/blob/main/architecture-diagram.png)
+![Architecture and Workflow Diagram](https://github.com/Hiteshydv001/Pink_sweat/blob/main/Architecture%20and%20Workflow%20Overview.pdf)
 
 ---
 
